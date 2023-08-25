@@ -1,0 +1,28 @@
+{
+  "quotes": [
+    {
+      "name": "peaceful quote",
+      "author": "James",
+      "description": "All is well",
+      "id": 1
+    },
+    {
+      "name": "sad quote",
+      "author": "Jane",
+      "description": "Everything ends",
+      "id": 2
+    },
+    {
+      "name": "happy quote",
+      "author": "June",
+      "description": "Don't worry be happy",
+      "id": 3
+    },
+    {
+      "name": "singing quote",
+      "author": "Daisy",
+      "description": "life is better in color",
+      "id": 4
+    }
+  ]
+}
